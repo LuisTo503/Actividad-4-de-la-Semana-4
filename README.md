@@ -2,11 +2,9 @@
 ## Nombre de la Actividad
 **Implementación de Algoritmos de Ordenamiento**
 
-## Docente
-**Kenia Páiz**
+## Docente: **Kenia Páiz**
 
-## Estudiante
-**Luis Rolando Tobar Moreno**
+## Estudiante **Luis Rolando Tobar Moreno**
 
 ## Instrucciones
 
@@ -19,13 +17,13 @@ Escribe un programa que ordene una lista de números de forma **descendente** ut
 - Duplicados
 - Valores negativos
 
--![burbuja](https://github.com/user-attachments/assets/95b810b4-6f2d-4734-9180-bd6d4b7316a7)
---
+![burbuja](https://github.com/user-attachments/assets/95b810b4-6f2d-4734-9180-bd6d4b7316a7)
+
+---
 
 ### Problema 2: Ordenar Lista con Merge Sort
 Implementa una función que ordene una lista de palabras **alfabéticamente** utilizando el algoritmo **Merge Sort**.
 
-**Requisitos**:
 
 ![mergeSort](https://github.com/user-attachments/assets/98738e8e-4062-4352-abc2-3099ed9393ee)
 
