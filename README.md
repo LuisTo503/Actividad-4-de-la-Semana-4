@@ -1,10 +1,10 @@
-# Actividad-4-de-la-Semana-4
+# Actividad-4-de-la-Semana-4 
 ## Nombre de la Actividad
-**Implementación de Algoritmos de Ordenamiento**
+**Implementación de Algoritmos de Ordenamiento** ⚙️
 
-## Docente: **Kenia Páiz**
+## Docente: **Kenia Páiz**🧑‍💻
 
-## Estudiante **Luis Rolando Tobar Moreno**
+## Estudiante **Luis Rolando Tobar Moreno**🎓
 
 ## Instrucciones
 
@@ -12,7 +12,7 @@ Para realizar esta actividad, deberán completar 3 ejercicios de lógica, cada u
 
 ---
 
-### Problema 1: Ordenar Lista con Bubble Sort
+### Problema 1: Ordenar Lista con Bubble Sort🔢
 Escribe un programa que ordene una lista de números de forma **descendente** utilizando el algoritmo **Bubble Sort**. La lista puede contener:
 - Duplicados
 - Valores negativos
@@ -21,7 +21,7 @@ Escribe un programa que ordene una lista de números de forma **descendente** ut
 
 ---
 
-### Problema 2: Ordenar Lista con Merge Sort
+### Problema 2: Ordenar Lista con Merge Sort🗂️
 Implementa una función que ordene una lista de palabras **alfabéticamente** utilizando el algoritmo **Merge Sort**.
 
 
@@ -29,7 +29,7 @@ Implementa una función que ordene una lista de palabras **alfabéticamente** ut
 
 ---
 
-### Problema 3: Ordenar Lista con Insertion Sort
+### Problema 3: Ordenar Lista con Insertion Sort🧩
 Crea un script que ordene una lista de **nombres** en orden **alfabético** utilizando el algoritmo **Insertion Sort**.
 
 ![insertion_sort](https://github.com/user-attachments/assets/624a6a0d-15fa-47b2-aee1-05b2b5812b47)
